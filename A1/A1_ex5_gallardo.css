@@ -1,0 +1,66 @@
+body{
+  background: #fff url('images/gradbg.jpg') top left repeat-x;
+  color: #000;
+  margin: 0;
+  padding:0;
+  border: 0;
+  font-family: Verdana, Arial, sans-serif; font-size: 1em;
+}
+
+}
+#bggraphic {
+  background: url('images/pen.png') top left no-repeat;
+  height: 278px;
+  width: 362px;
+  position: absolute;
+  left: 50%;
+  z-index: 100;
+}
+#subtitulo {
+  text-align: center;
+  color: orange;
+}
+#anotacion {
+  text-align: left;
+  color: gray;
+
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+  font-size: 3em;
+  font-weight: 1000;
+  margin-bottom: 30px;
+  background: url('images/headbg.png') top left repeat;
+  padding: 10px 0;
+}
+#references cite {
+  margin: 1em 0 0 4.5em;
+  text-indent: -3em;
+  display: block;
+  font-style: normal;
+  padding-right: 15px;
+}
+.website {
+  border-right: 5px solid blue;
+  background: url('images/web.png') top right no-repeat;
+
+}
+.book {
+  border-right: 5px solid red;
+  color: red;
+  background: url('images/llibres.png') top right no-repeat;
+
+}
+.article {
+  border-right: 5px solid green;
+  padding-right: 3px;
+  background: url('images/articles.png') top right no-repeat;
+
+}
+
+#footer {
+  visibility: hidden;
+}
+
