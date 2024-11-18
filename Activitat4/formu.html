@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reserva Rural Rooms</title>
+    <link rel="stylesheet" href="css/css_formu.css">
+</head>
+<body>
+    <div class="contenedor">
+        <header>
+            <div class="logo">
+                <img src="img/RRLogo.png" alt="Logo RR">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="home.html">Inicio</a></li>
+                    <li><a href="Precios.html">Precios</a></li>
+                    <li><a href="formu.html">Reserva</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>Formulari de Reserva</h1>
+            <form action="process_reserva.php" method="post">
+                <fieldset>
+                    <legend>Dades personals</legend>
+                    <label for="tractament">Tractament:</label>
+                    <select id="tractament" name="tractament">
+                        <option value="sr">Sr</option>
+                        <option value="sra">Sra</option>
+                        <option value="srta">Srta</option>
+                    </select><br>
+                    <label for="nom">Nom:</label>
+                    <input type="text" id="nom" name="nom" required><br>
+                    <label for="cognoms">Cognoms:</label>
+                    <input type="text" id="cognoms" name="cognoms" required><br>
+                    <label for="telefon">Telèfon:</label>
+                    <input type="tel" id="telefon" name="telefon" required><br>
+                    <label for="email">Correu electrònic:</label>
+                    <input type="email" id="email" name="email" required><br>
+                    <label for="email_confirm">Confirma el correu:</label>
+                    <input type="email" id="email_confirm" name="email_confirm" required><br>
+                    <label for="password">Contrasenya:</label>
+                    <input type="password" id="password" name="password" required><br>
+                </fieldset>
+                <br>
+                <fieldset>
+                    <legend>Dades de la reserva</legend>
+                    <label for="habitacio">Tipus d'habitació:</label>
+                    <select id="habitacio" name="habitacio">
+                        <option value="individual">Habitació individual</option>
+                        <option value="doble">Habitació doble</option>
+                        <option value="doble_superior">Habitació doble superior</option>
+                        <option value="triple">Habitació triple</option>
+                    </select><br>
+                    <label for="persones">Número de persones:</label>
+                    <input type="number" id="persones" name="persones" min="1" required><br>
+                    <label for="entrada">Data d'entrada:</label>
+                    <input type="date" id="entrada" name="entrada" required><br>
+                    <label for="sortida">Data de sortida:</label>
+                    <input type="date" id="sortida" name="sortida" required><br>
+                    <label for="peticions">Peticions especials:</label><br>
+                    <textarea id="peticions" name="peticions" rows="4" placeholder="Les peticions no es poden garantir, però es farà el possible."></textarea><br>
+                </fieldset>
+                <br>
+                <fieldset>
+                    <legend>Dades addicionals</legend>
+                    <label for="parking">Vol reservar plaça de pàrquing cobert (8€/nit)?</label>
+                    <input type="checkbox" id="parking" name="parking"><br>
+                    <p>L'hotel disposa de pàrquing exterior gratuït.</p>
+                    <label for="arribada">Hora prevista d'arribada:</label>
+                    <input type="time" id="arribada" name="arribada"><br>
+                    <label for="esmorzar">Afegir esmorzar (5€/dia)?</label>
+                    <input type="checkbox" id="esmorzar" name="esmorzar">
+                </fieldset>
+                <button type="submit">Enviar reserva</button>
+            </form>
+        </main>
+        <br>
+        <footer>
+            <p>Activitat realitzada per <b>Hugo Gallardo Domingo</b></p>
+            <p>Fotografies de la portada: <span class="especial">Unsplash</span> 
+                <img src="img/creative-commons.png" alt="Creative Commons"></p>
+        </footer>
+    </div>
+</body>
+</html>
