@@ -1,0 +1,81 @@
+header {
+    background-color: green;
+    display: flex;
+    align-items: center;
+    padding: 20px 35px;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+    margin-right: 625px;
+}
+
+nav ul {
+    text-align: center;
+    list-style: none;
+    display: flex;
+    gap: 70px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+body {
+    background-image: url("../img/banner.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+main {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input, select, button {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background-color: green;
+}
