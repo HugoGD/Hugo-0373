@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pressupostos>
+    <Pressupost id="1">
+        <Component>
+            <Nom>Placa Base</Nom>
+            <Marca>ASUS</Marca>
+            <Model>ROG STRIX B450-F Gaming</Model>
+            <Preu>150€</Preu>
+        </Component>
+        <Component>
+            <Nom>Processador</Nom>
+            <Marca>AMD</Marca>
+            <Model>Ryzen 5 5600X</Model>
+            <Preu>240€</Preu>
+        </Component>
+        <Component>
+            <Nom>Memòria RAM</Nom>
+            <Marca>Corsair</Marca>
+            <Model>Vengeance LPX 16GB (2 x 8GB)</Model>
+            <Preu>90€</Preu>
+            <Quantitat>2</Quantitat>
+        </Component>
+        <Component>
+            <Nom>Disc Dur</Nom>
+            <Marca>Western Digital</Marca>
+            <Model>WD Blue 1TB</Model>
+            <Preu>50€</Preu>
+        </Component>
+        <Component>
+            <Nom>Targeta Gràfica</Nom>
+            <Marca>NVIDIA</Marca>
+            <Model>GeForce RTX 3060</Model>
+            <Preu>350€</Preu>
+        </Component>
+        <Component>
+            <Nom>Targeta de So</Nom>
+            <Marca>Creative</Marca>
+            <Model>Sound Blaster Audigy FX</Model>
+            <Preu>40€</Preu>
+        </Component>
+    </Pressupost>
+    <Pressupost id="2">
+        <Component>
+            <Nom>Placa Base</Nom>
+            <Marca>MSI</Marca>
+            <Model>MAG B550 TOMAHAWK</Model>
+            <Preu>180€</Preu>
+        </Component>
+        <Component>
+            <Nom>Processador</Nom>
+            <Marca>Intel</Marca>
+            <Model>Core i5-12400F</Model>
+            <Preu>200€</Preu>
+        </Component>
+        <Component>
+            <Nom>Memòria RAM</Nom>
+            <Marca>Kingston</Marca>
+            <Model>FURY Beast DDR4 16GB (2 x 8GB)</Model>
+            <Preu>80€</Preu>
+            <Quantitat>2</Quantitat>
+        </Component>
+        <Component>
+            <Nom>Disc Dur</Nom>
+            <Marca>Seagate</Marca>
+            <Model>Barracuda 2TB</Model>
+            <Preu>60€</Preu>
+        </Component>
+        <Component>
+            <Nom>Targeta Gràfica</Nom>
+            <Marca>AMD</Marca>
+            <Model>Radeon RX 6600</Model>
+            <Preu>330€</Preu>
+        </Component>
+        <Component>
+            <Nom>Targeta de So</Nom>
+            <Marca>ASUS</Marca>
+            <Model>Xonar SE</Model>
+            <Preu>35€</Preu>
+        </Component>
+    </Pressupost>
+</Pressupostos>

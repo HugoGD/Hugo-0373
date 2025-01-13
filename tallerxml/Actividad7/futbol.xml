@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Futbol>
+    <Jornada numero="1">
+        <Partit>
+            <EquipLocal>R. Sociedad</EquipLocal>
+            <GolsLocal>2</GolsLocal>
+            <EquipVisitant>Getafe</EquipVisitant>
+            <GolsVisitant>0</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+        <Partit>
+            <EquipLocal>Valencia</EquipLocal>
+            <GolsLocal>1</GolsLocal>
+            <EquipVisitant>Màlaga</EquipVisitant>
+            <GolsVisitant>0</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+    </Jornada>
+    <Jornada numero="2">
+        <Partit>
+            <EquipLocal>Getafe</EquipLocal>
+            <GolsLocal>2</GolsLocal>
+            <EquipVisitant>Almeria</EquipVisitant>
+            <GolsVisitant>2</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+        <Partit>
+            <EquipLocal>Elche</EquipLocal>
+            <GolsLocal>1</GolsLocal>
+            <EquipVisitant>R. Sociedad</EquipVisitant>
+            <GolsVisitant>1</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+    </Jornada>
+    <Jornada numero="3">
+        <Partit>
+            <EquipLocal>Rayo</EquipLocal>
+            <GolsLocal>1</GolsLocal>
+            <EquipVisitant>Levante</EquipVisitant>
+            <GolsVisitant>2</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+        <Partit>
+            <EquipLocal>Celta</EquipLocal>
+            <GolsLocal>1</GolsLocal>
+            <EquipVisitant>Granada</EquipVisitant>
+            <GolsVisitant>0</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+    </Jornada>
+    <Jornada numero="4">
+        <Partit>
+            <EquipLocal>Atlético</EquipLocal>
+            <GolsLocal>4</GolsLocal>
+            <EquipVisitant>Almeria</EquipVisitant>
+            <GolsVisitant>0</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+        <Partit>
+            <EquipLocal>Rayo</EquipLocal>
+            <GolsLocal>3</GolsLocal>
+            <EquipVisitant>Levante</EquipVisitant>
+            <GolsVisitant>1</GolsVisitant>
+            <Estat>finalitzat</Estat>
+        </Partit>
+    </Jornada>
+</Futbol>
