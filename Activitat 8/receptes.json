@@ -1,0 +1,91 @@
+{
+	"Receptes": {
+		"Recepta": [
+			{
+				"Nom": "Pastís de xocolata",
+				"Ingredients": {
+					"Ingredient": [
+						"- 6 rovells d'ou",
+						"- 6 clares",
+						"- 150 g de sucre",
+						"- 200 g de xocolata negra de cobertura",
+						"- 50 g de mantega",
+						"- Farina"
+					],
+					"Altres": [
+						"- Nata muntada",
+						"- Cacau en pols"
+					]
+				},
+				"Preparacio": "Per començar, barregeu els rovells d'ou amb el sucre en un bol.\n            Mentrestant, foneu la cobertura de xocolata al bany maria. Quan la xocolata s'hagi desfet, afegiu-hi la mantega i remeneu-ho.\n            Tot seguit, munteu les clares que haureu tingut a la nevera perquè es muntin bé.\n            A continuació, barregeu la xocolata, els rovells i el sucre i les clares muntades. Remeneu-ho i poseu-ho en un motlle per al forn.\n            Deixeu-ho coure al forn a 180 graus durant 30 minuts. Després, deixeu refredar el pastís, desmotlleu-lo i emplatau-lo. I ja per acabar, decoreu-lo amb nata muntada i cacau en pols.",
+				"Notes": "Recepta del programa de TV3 Cuines, del restaurant Les Petxines.",
+				"Autor": {
+					"Nom": "Bàrbara Casanovas i Adrià Ruscalleda"
+				},
+				"Caracteristiques": {
+					"Categoria": "Postre",
+					"Etiqueta": [
+						"Dolços",
+						"Forn",
+						"Aniversari",
+						"Fàcil",
+						"Econòmic"
+					]
+				}
+			},
+			{
+				"Nom": "Volcà de xocolata",
+				"Ingredients": {
+					"Ingredient": [
+						"- 4 ous",
+						"- 4 rovells",
+						"- 80 g de sucre",
+						"- 220 g de mantega",
+						"- 200 g de xocolata",
+						"- 60 g de farina"
+					]
+				},
+				"Preparacio": "1.- Foneu al bany maria la xocolata i la mantega. Un cop fora del foc. \n            2.- Munteu les clares, afegint-hi el sucre, quan comencin a agafar cos. \n            3.- Barregeu la meitat de les clares muntades amb la xocolata. Incorporeu-hi la farina i la resta de les clares. \n            4.- Pinteu motlles individuals amb mantega i farina, farciu-los amb la pasta fins a la meitat i disposeu al centre un dau de xocolata. Acabeu de farcir una mica més els motlles per a amagar el dau de xocolata. \n            5.- Coeu a 220º (forn només amb escalfor de baix) durant uns 10 minuts aproximadament. \n            6.- Servir calent, empolvorat de sucre llustre i acompanyat d’una salsa o de gelat.",
+				"Autor": {
+					"Nom": "anna"
+				},
+				"Caracteristiques": {
+					"Categoria": "Postre",
+					"Etiqueta": [
+						"Dolços",
+						"Festa",
+						"Fàcil",
+						"Econòmic",
+						"Catalana"
+					]
+				},
+				"DadesPreparacio": {
+					"Temps": "30 minuts",
+					"Cost": "15 €",
+					"Calories": "220 calories"
+				}
+			},
+			{
+				"Nom": "Pastís de formatge",
+				"Ingredients": {
+					"Ingredient": [
+						"- 2 terrines de formatge Philadelphia (200-300g)",
+						"- 3 ous",
+						"- 3 iogurts naturals",
+						"- 3 cullerades (grans) de farina",
+						"- 10-12 cullerades (petites) de sucre",
+						"- Un parell de galetes Maria o Chiquilín"
+					]
+				},
+				"Preparacio": "El primer que hem de fer és escalfar el forn a 200 graus. Buideu les terrines de Philadelphia en un bol i remeneu bé el formatge. Afegim els 3 ous, els afegim i els remenem amb el formatge. Ara afegim els 3 iogurts naturals a la barreja i tornem a remenar.\n            Quan tinguem una pasta homogènia, hi posem la farina i el sucre i ho remenem tot fins que no quedin grumolls.\n            Preparem el motlle untant-lo bé amb mantega. Triturem les galetes i les repartim per tota la base del motlle.\n            Seguidament, hi evoquem la barreja que tenim ja preparada. Baixem el forn a 170º i hi col·loquem el pastís. Esperem uns 20 o 30 minuts. Com que la cocció depèn de la potència del forn, la millor manera de saber si el pastís està fet és punxar-lo amb un pal amb punta fina o amb un ganivet. Si el traiem i aquest surt net vol dir que ja tenim el pastís cuit. El deixem refredar i el retirem del motlle. \n            Si el pastís és molt suau, se li afegirà una capa molt fina de melmelada de maduixa o gerds. Ja veureu quina delícia!",
+				"Notes": "Una delícia pels més formatgers!!!",
+				"Autor": {
+					"Nom": "eulalia"
+				},
+				"Caracteristiques": {
+					"Categoria": "Postre"
+				}
+			}
+		]
+	}
+}

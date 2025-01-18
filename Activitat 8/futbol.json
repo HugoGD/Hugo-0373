@@ -1,0 +1,82 @@
+{
+    "Futbol": {
+        "Jornada": [
+            {
+                "-numero": "1",
+                "Partit": [
+                    {
+                        "EquipLocal": "R. Sociedad",
+                        "GolsLocal": "2",
+                        "EquipVisitant": "Getafe",
+                        "GolsVisitant": "0",
+                        "Estat": "finalitzat"
+                    },
+                    {
+                        "EquipLocal": "Valencia",
+                        "GolsLocal": "1",
+                        "EquipVisitant": "Màlaga",
+                        "GolsVisitant": "0",
+                        "Estat": "finalitzat"
+                    }
+                ]
+            },
+            {
+                "-numero": "2",
+                "Partit": [
+                    {
+                        "EquipLocal": "Getafe",
+                        "GolsLocal": "2",
+                        "EquipVisitant": "Almeria",
+                        "GolsVisitant": "2",
+                        "Estat": "finalitzat"
+                    },
+                    {
+                        "EquipLocal": "Elche",
+                        "GolsLocal": "1",
+                        "EquipVisitant": "R. Sociedad",
+                        "GolsVisitant": "1",
+                        "Estat": "finalitzat"
+                    }
+                ]
+            },
+            {
+                "-numero": "3",
+                "Partit": [
+                    {
+                        "EquipLocal": "Rayo",
+                        "GolsLocal": "1",
+                        "EquipVisitant": "Levante",
+                        "GolsVisitant": "2",
+                        "Estat": "finalitzat"
+                    },
+                    {
+                        "EquipLocal": "Celta",
+                        "GolsLocal": "1",
+                        "EquipVisitant": "Granada",
+                        "GolsVisitant": "0",
+                        "Estat": "finalitzat"
+                    }
+                ]
+            },
+            {
+                "-numero": "4",
+                "Partit": [
+                    {
+                        "EquipLocal": "Atlético",
+                        "GolsLocal": "4",
+                        "EquipVisitant": "Almeria",
+                        "GolsVisitant": "0",
+                        "Estat": "finalitzat"
+                    },
+                    {
+                        "EquipLocal": "Rayo",
+                        "GolsLocal": "3",
+                        "EquipVisitant": "Levante",
+                        "GolsVisitant": "1",
+                        "Estat": "finalitzat"
+                    }
+                ]
+            }
+        ]
+    }
+}

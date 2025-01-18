@@ -1,0 +1,90 @@
+{
+    "Pressupostos": {
+        "Pressupost": [
+            {
+                "-id": "1",
+                "Component": [
+                    {
+                        "Nom": "Placa Base",
+                        "Marca": "ASUS",
+                        "Model": "ROG STRIX B450-F Gaming",
+                        "Preu": "150€"
+                    },
+                    {
+                        "Nom": "Processador",
+                        "Marca": "AMD",
+                        "Model": "Ryzen 5 5600X",
+                        "Preu": "240€"
+                    },
+                    {
+                        "Nom": "Memòria RAM",
+                        "Marca": "Corsair",
+                        "Model": "Vengeance LPX 16GB (2 x 8GB)",
+                        "Preu": "90€",
+                        "Quantitat": "2"
+                    },
+                    {
+                        "Nom": "Disc Dur",
+                        "Marca": "Western Digital",
+                        "Model": "WD Blue 1TB",
+                        "Preu": "50€"
+                    },
+                    {
+                        "Nom": "Targeta Gràfica",
+                        "Marca": "NVIDIA",
+                        "Model": "GeForce RTX 3060",
+                        "Preu": "350€"
+                    },
+                    {
+                        "Nom": "Targeta de So",
+                        "Marca": "Creative",
+                        "Model": "Sound Blaster Audigy FX",
+                        "Preu": "40€"
+                    }
+                ]
+            },
+            {
+                "-id": "2",
+                "Component": [
+                    {
+                        "Nom": "Placa Base",
+                        "Marca": "MSI",
+                        "Model": "MAG B550 TOMAHAWK",
+                        "Preu": "180€"
+                    },
+                    {
+                        "Nom": "Processador",
+                        "Marca": "Intel",
+                        "Model": "Core i5-12400F",
+                        "Preu": "200€"
+                    },
+                    {
+                        "Nom": "Memòria RAM",
+                        "Marca": "Kingston",
+                        "Model": "FURY Beast DDR4 16GB (2 x 8GB)",
+                        "Preu": "80€",
+                        "Quantitat": "2"
+                    },
+                    {
+                        "Nom": "Disc Dur",
+                        "Marca": "Seagate",
+                        "Model": "Barracuda 2TB",
+                        "Preu": "60€"
+                    },
+                    {
+                        "Nom": "Targeta Gràfica",
+                        "Marca": "AMD",
+                        "Model": "Radeon RX 6600",
+                        "Preu": "330€"
+                    },
+                    {
+                        "Nom": "Targeta de So",
+                        "Marca": "ASUS",
+                        "Model": "Xonar SE",
+                        "Preu": "35€"
+                    }
+                ]
+            }
+        ]
+    }
+}
