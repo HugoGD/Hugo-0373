@@ -1,0 +1,55 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+      "nom-equip": {
+        "type": "string"
+      },
+      "jugadors": {
+        "type": "array",
+        "minItems": 2,
+        "maxItems": 10,
+        "items": {
+          "type": "object",
+          "properties": {
+            "num-jugador": {
+              "type": "integer"
+            },
+            "DNI": {
+              "type": "string",
+              "pattern": "^[0-9]{8}[A-Z]$"
+            },
+            "nom": {
+              "type": "string"
+            },
+            "cognom": {
+              "type": "string"
+            },
+            "edat": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "ciutat": {
+              "type": "string"
+            },
+            "adreça": {
+              "type": "string"
+            },
+            "país": {
+              "type": "string"
+            },
+            "telèfon": {
+              "type": "integer"
+            },
+            "email": {
+              "type": "string",
+              "format": "email"
+            }
+          },
+          "required": ["num-jugador", "DNI", "nom", "cognom", "ciutat", "email"]
+        }
+      }
+    },
+    "required": ["nom-equip", "jugadors"]
+  }
+  
