@@ -1,0 +1,26 @@
+* {
+    background-color: aqua;
+}
+
+notes {
+    display: flex;
+    flex-direction: column;
+}
+
+alumnes {
+    display: flex;
+    flex-direction: column;
+}
+
+nom_assignatura {
+    font-size: 50px;
+    color: green;
+}
+
+nom {
+    color: red;
+}
+
+nota {
+    font-weight: bold;
+}
