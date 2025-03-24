@@ -1,0 +1,169 @@
+[{"Nombre":"Total, Viajeros, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":4754543.0}
+]
+}
+,{"Nombre":"Total, Viajeros, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":2149467.0}
+]
+}
+,{"Nombre":"Total, Viajeros, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":2605075.0}
+]
+}
+,{"Nombre":"Total, Pernoctaciones, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":8630443.0}
+]
+}
+,{"Nombre":"Total, Pernoctaciones, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":4322042.0}
+]
+}
+,{"Nombre":"Total, Pernoctaciones, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":4308401.0}
+]
+}
+,{"Nombre":"Albergue Juvenil, Viajeros, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue Juvenil", "Codigo":"alberguejuvenil"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":960929.0}
+]
+}
+,{"Nombre":"Albergue Juvenil, Viajeros, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue Juvenil", "Codigo":"alberguejuvenil"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":661693.0}
+]
+}
+,{"Nombre":"Albergue Juvenil, Viajeros, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue Juvenil", "Codigo":"alberguejuvenil"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":299236.0}
+]
+}
+,{"Nombre":"Albergue Juvenil, Pernoctaciones, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue Juvenil", "Codigo":"alberguejuvenil"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":2641584.0}
+]
+}
+,{"Nombre":"Albergue Juvenil, Pernoctaciones, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue Juvenil", "Codigo":"alberguejuvenil"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":1896537.0}
+]
+}
+,{"Nombre":"Albergue Juvenil, Pernoctaciones, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue Juvenil", "Codigo":"alberguejuvenil"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":745046.0}
+]
+}
+,{"Nombre":"Peregrinos del Camino de Santiago, Viajeros, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Peregrinos del Camino de Santiago", "Codigo":"peregrinosdelcaminodesantiago"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":508376.0}
+]
+}
+,{"Nombre":"Peregrinos del Camino de Santiago, Viajeros, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Peregrinos del Camino de Santiago", "Codigo":"peregrinosdelcaminodesantiago"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":159140.0}
+]
+}
+,{"Nombre":"Peregrinos del Camino de Santiago, Viajeros, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Peregrinos del Camino de Santiago", "Codigo":"peregrinosdelcaminodesantiago"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":349236.0}
+]
+}
+,{"Nombre":"Peregrinos del Camino de Santiago, Pernoctaciones, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Peregrinos del Camino de Santiago", "Codigo":"peregrinosdelcaminodesantiago"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":508442.0}
+]
+}
+,{"Nombre":"Peregrinos del Camino de Santiago, Pernoctaciones, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Peregrinos del Camino de Santiago", "Codigo":"peregrinosdelcaminodesantiago"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":159156.0}
+]
+}
+,{"Nombre":"Peregrinos del Camino de Santiago, Pernoctaciones, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Peregrinos del Camino de Santiago", "Codigo":"peregrinosdelcaminodesantiago"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":349286.0}
+]
+}
+,{"Nombre":"Albergue turístico, Viajeros, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue turístico", "Codigo":"albergueturistico"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":3285238.0}
+]
+}
+,{"Nombre":"Albergue turístico, Viajeros, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue turístico", "Codigo":"albergueturistico"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":1328634.0}
+]
+}
+,{"Nombre":"Albergue turístico, Viajeros, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue turístico", "Codigo":"albergueturistico"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Viajeros", "Codigo":"viajeros"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":1956604.0}
+]
+}
+,{"Nombre":"Albergue turístico, Pernoctaciones, Total", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue turístico", "Codigo":"albergueturistico"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":5480417.0}
+]
+}
+,{"Nombre":"Albergue turístico, Pernoctaciones, Residentes en España", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue turístico", "Codigo":"albergueturistico"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en España", "Codigo":"residentesenespana"}
+]
+, "Data":[{"Valor":2266349.0}
+]
+}
+,{"Nombre":"Albergue turístico, Pernoctaciones, Residentes en el extranjero", "MetaData":[{"T3_Variable":"categoría", "Nombre":"Albergue turístico", "Codigo":"albergueturistico"}
+,{"T3_Variable":"viajeros y pernoctaciones", "Nombre":"Pernoctaciones", "Codigo":"pernoctaciones"}
+,{"T3_Variable":"residencia", "Nombre":"Residentes en el extranjero", "Codigo":"residentesenelextranjero"}
+]
+, "Data":[{"Valor":3214068.0}
+]
+}
+]

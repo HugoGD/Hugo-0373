@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <0>
+         <Nombre>Total, Viajeros, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>4754543</Valor>
+         </Data>
+     </0>
+     <1>
+         <Nombre>Total, Viajeros, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>2149467</Valor>
+         </Data>
+     </1>
+     <2>
+         <Nombre>Total, Viajeros, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>2605075</Valor>
+         </Data>
+     </2>
+     <3>
+         <Nombre>Total, Pernoctaciones, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>8630443</Valor>
+         </Data>
+     </3>
+     <4>
+         <Nombre>Total, Pernoctaciones, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>4322042</Valor>
+         </Data>
+     </4>
+     <5>
+         <Nombre>Total, Pernoctaciones, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>4308401</Valor>
+         </Data>
+     </5>
+     <6>
+         <Nombre>Albergue Juvenil, Viajeros, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue Juvenil</Nombre>
+             <Codigo>alberguejuvenil</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>960929</Valor>
+         </Data>
+     </6>
+     <7>
+         <Nombre>Albergue Juvenil, Viajeros, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue Juvenil</Nombre>
+             <Codigo>alberguejuvenil</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>661693</Valor>
+         </Data>
+     </7>
+     <8>
+         <Nombre>Albergue Juvenil, Viajeros, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue Juvenil</Nombre>
+             <Codigo>alberguejuvenil</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>299236</Valor>
+         </Data>
+     </8>
+     <9>
+         <Nombre>Albergue Juvenil, Pernoctaciones, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue Juvenil</Nombre>
+             <Codigo>alberguejuvenil</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>2641584</Valor>
+         </Data>
+     </9>
+     <10>
+         <Nombre>Albergue Juvenil, Pernoctaciones, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue Juvenil</Nombre>
+             <Codigo>alberguejuvenil</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>1896537</Valor>
+         </Data>
+     </10>
+     <11>
+         <Nombre>Albergue Juvenil, Pernoctaciones, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue Juvenil</Nombre>
+             <Codigo>alberguejuvenil</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>745046</Valor>
+         </Data>
+     </11>
+     <12>
+         <Nombre>Peregrinos del Camino de Santiago, Viajeros, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Peregrinos del Camino de Santiago</Nombre>
+             <Codigo>peregrinosdelcaminodesantiago</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>508376</Valor>
+         </Data>
+     </12>
+     <13>
+         <Nombre>Peregrinos del Camino de Santiago, Viajeros, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Peregrinos del Camino de Santiago</Nombre>
+             <Codigo>peregrinosdelcaminodesantiago</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>159140</Valor>
+         </Data>
+     </13>
+     <14>
+         <Nombre>Peregrinos del Camino de Santiago, Viajeros, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Peregrinos del Camino de Santiago</Nombre>
+             <Codigo>peregrinosdelcaminodesantiago</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>349236</Valor>
+         </Data>
+     </14>
+     <15>
+         <Nombre>Peregrinos del Camino de Santiago, Pernoctaciones, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Peregrinos del Camino de Santiago</Nombre>
+             <Codigo>peregrinosdelcaminodesantiago</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>508442</Valor>
+         </Data>
+     </15>
+     <16>
+         <Nombre>Peregrinos del Camino de Santiago, Pernoctaciones, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Peregrinos del Camino de Santiago</Nombre>
+             <Codigo>peregrinosdelcaminodesantiago</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>159156</Valor>
+         </Data>
+     </16>
+     <17>
+         <Nombre>Peregrinos del Camino de Santiago, Pernoctaciones, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Peregrinos del Camino de Santiago</Nombre>
+             <Codigo>peregrinosdelcaminodesantiago</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>349286</Valor>
+         </Data>
+     </17>
+     <18>
+         <Nombre>Albergue turístico, Viajeros, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue turístico</Nombre>
+             <Codigo>albergueturistico</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>3285238</Valor>
+         </Data>
+     </18>
+     <19>
+         <Nombre>Albergue turístico, Viajeros, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue turístico</Nombre>
+             <Codigo>albergueturistico</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>1328634</Valor>
+         </Data>
+     </19>
+     <20>
+         <Nombre>Albergue turístico, Viajeros, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue turístico</Nombre>
+             <Codigo>albergueturistico</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Viajeros</Nombre>
+             <Codigo>viajeros</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>1956604</Valor>
+         </Data>
+     </20>
+     <21>
+         <Nombre>Albergue turístico, Pernoctaciones, Total</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue turístico</Nombre>
+             <Codigo>albergueturistico</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Total</Nombre>
+             <Codigo>total</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>5480417</Valor>
+         </Data>
+     </21>
+     <22>
+         <Nombre>Albergue turístico, Pernoctaciones, Residentes en España</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue turístico</Nombre>
+             <Codigo>albergueturistico</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en España</Nombre>
+             <Codigo>residentesenespana</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>2266349</Valor>
+         </Data>
+     </22>
+     <23>
+         <Nombre>Albergue turístico, Pernoctaciones, Residentes en el extranjero</Nombre>
+         <MetaData>
+             <T3_Variable>categoría</T3_Variable>
+             <Nombre>Albergue turístico</Nombre>
+             <Codigo>albergueturistico</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>viajeros y pernoctaciones</T3_Variable>
+             <Nombre>Pernoctaciones</Nombre>
+             <Codigo>pernoctaciones</Codigo>
+         </MetaData>
+         <MetaData>
+             <T3_Variable>residencia</T3_Variable>
+             <Nombre>Residentes en el extranjero</Nombre>
+             <Codigo>residentesenelextranjero</Codigo>
+         </MetaData>
+         <Data>
+             <Valor>3214068</Valor>
+         </Data>
+     </23>
+ </root>
